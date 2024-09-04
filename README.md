@@ -1,4 +1,4 @@
-openJosh
+LoLPlayerScraper
 =================
 Official API of the LCS
 
