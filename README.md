@@ -1,5 +1,5 @@
-LoLPlayerScraper
-=================
+xn-lcs-api
+==========
 Official API of the LCS
 
 Introduction
